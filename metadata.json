@@ -1,0 +1,6 @@
+{
+  "name": "Guia de Psicofármacos",
+  "description": "Guia clínico interativo e navegável de psicofármacos com busca instantânea, filtros por classe terapêutica e receituário, dosagens e modo escuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
